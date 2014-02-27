@@ -35,7 +35,7 @@ Two strings, one of the disemvoweled text (spaces removed), and one of all the r
     ioueaaoueeeeaeoaouaiiiie
 
 
-##Instructions
+###Instructions
 Create your Disemvoweler in any language you prefer, it may be as visual as you like aswell. Once you are satisfied with the result put your program in a folder named your github username in the Challenge3/Submission/Part1 directory. Then make a pull request and we will add it to the society repo.
 
 ---------------------------
@@ -84,5 +84,5 @@ There are, in general, many correct outputs. Any of these is valid output for th
     aoouiaeaeaoeoieeoieaeoe
 
 
-##Instructions
+###Instructions
 Create your Re-emvoweler in any language you prefer, it may be as visual as you like aswell. Once you are satisfied with the result put your program in a folder named your github username in the Challenge3/Submission/Part2 directory. Then make a pull request and we will add it to the society repo.

@@ -53,7 +53,7 @@ For each field, print the message Field #x: on a line alone, where x stands for 
     1*100
 
 
-##Instructions
+###Instructions
 
 Create a program that will solve the task given above. There are no restrictions to language used or how visual you make your program. If this doesn't seem like enough of a challenge try doing it in an unfamiliar language. Have fun and be creative with your solution.
 
